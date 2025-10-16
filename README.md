@@ -10,11 +10,11 @@ It serves as a portfolio to demonstrate my technical abilities and problem-solvi
 - **Analytics for Business Intelligence**  
   Projects focused on applying data analytics to support business decision-making.  
   - *Credit Default Prediction* (`CreditDefaultPrediction.ipynb`, `CreditDefaultPredictionReport.pdf`)  
-    Predicting loan default risk using machine learning models.  
+    Predicting loan default risk using machine learning models, including Logistic regression, Logistic regression with ElasticNet, SVM.  
   - *Fast Food Restaurant Analysis* (`FastFoodRestaurantAnalysis.ipynb`)  
     Data analysis on fast food restaurant in new jerseay.  
   - *House Price Prediction* (`HousePricePrediction.ipynb`, `HousePricePredictionReport.pdf`)  
-    Building regression models to predict housing prices.  
+    Building ML models(linear regression, Lasso regression, Elastic Net with Grid search) to predict housing prices.  
   - *credit.csv*  
     Dataset used in credit risk analysis.  
 
